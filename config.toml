@@ -2,3 +2,4 @@ languageCode = "en-us"
 title = "This is a raw hugo site"
 languageCode: en-us
 defaultContentLanguage: en
+enableGitInfo: true
